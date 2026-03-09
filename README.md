@@ -29,8 +29,8 @@ Tippen zum Schließen.
 
 ### Setup
 ```bash
-git clone https://github.com/nils-112358/rechner-plus.git
-cd rechner-plus
+git clone https://github.com/nils-112358/garminrechner.git
+cd garminrechner
 ```
 1. In VS Code öffnen
 2. `Ctrl+Shift+P` → **Monkey C: Edit Products** → `fenix847mm`
